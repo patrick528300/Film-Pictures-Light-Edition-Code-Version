@@ -10,5 +10,5 @@ Code editing pictures:
    step three: merge three channels to get the positive picture
 
 
-Part of the scripts are from public resources, and also with the help of ChatGPT. I do not claim the originality of the code. 
+Part of the scripts are from public resources, and also with the help of ChatGPT. I do not claim the originality of the algorithm. 
 FEEL FREE to use those files and try editing your film pictures!
