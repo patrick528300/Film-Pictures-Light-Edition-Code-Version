@@ -1,0 +1,7 @@
+Code editing pictures:
+
+1. gamma.py:
+   origin gamma value: 1
+   remove auto white balance caused by the lab scan machine: gamma below 1 (e.g. 0.5, 0.7, 0.3)
+   adding more light / exposure: gamma above 1 (e.g. 1.5, 2)
+2. inverting negatives into positive images
