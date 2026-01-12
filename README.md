@@ -1,3 +1,5 @@
+install: numpy, matplotlib, open-cv
+
 Code editing pictures:
 
 1. gamma.py:
